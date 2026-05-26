@@ -1,0 +1,113 @@
+Create a premium multi-page industrial corporate website design for “SDK Automations” in Figma with a clean white background, futuristic engineering aesthetics, smooth UI animations, advanced transitions, glassmorphism cards, subtle shadows, modern industrial visuals, and highly professional layouts. The website should not place all content on a single page. Instead, organize the content into multiple modern pages with dedicated layouts, interactive sections, and smooth navigation flow. Use real-time realistic industrial images including automation factories, aerospace facilities, robotic systems, control panels, NDT FPI booths, chemical processing lines, industrial installations, painting booths, conveyor systems, engineering teams, and manufacturing environments. The design must feel world-class, premium, responsive, futuristic, and suitable for a global industrial automation company.
+
+Home Page:
+Create a cinematic hero section with full-width industrial background video or image slider, animated headline text, glowing CTA buttons, floating industrial elements, smooth scroll animations, and company tagline “Engineering Smart Solutions for Industrial Excellence.” Add animated statistics counters, featured services preview cards, industry highlights, client logos, testimonials, project showcase carousel, and smooth parallax sections. Include transparent sticky navbar with animated hover effects and responsive mobile navigation.
+
+About Us Page:
+Design a clean corporate layout explaining SDK Automations as a specialized engineering and automation solutions company focused on automation systems, chemical processing line establishments, NDT FPI booth setups, bath process integrations, industrial installations, and turnkey engineering support. Include mission, vision, values, commitment, leadership section for Mr. Dinesh Kumar, consulting support from Elroiz Neway Solutions, company timeline, engineering philosophy, and animated company journey sections with modern infographic visuals.
+
+Services Page:
+Create separate animated service cards with hover transitions and detailed sections for:
+
+PLC-based industrial automation
+Industrial control panel integration
+Conveyor and material handling systems
+Process monitoring systems
+Chemical processing line setup
+Surface treatment process integration
+Tank and bath establishment
+Heating and filtration systems
+NDT FPI booth engineering
+Dark room setup
+Painting booth infrastructure
+Ultrasonic cleaning bath setup
+Installation and commissioning
+Production startup assistance
+Operator training and process validation
+
+Add realistic industrial images beside each service with animated iconography and expandable content sections.
+
+Industries Served Page:
+Design industry-focused sections for aerospace, automobile, precision engineering, metal finishing, industrial automation, non-destructive testing facilities, and manufacturing industries. Use large industry banners, interactive cards, statistics, industrial infographics, and animated transitions between sectors.
+
+Projects / Portfolio Page:
+Showcase industrial project galleries with fullscreen image cards, hover zoom effects, animated sliders, process walkthroughs, before-and-after layouts, and modern masonry grids displaying automation setups, process lines, NDT booths, and industrial installations.
+
+Engineering Capabilities Page:
+Highlight GA layout development, process flow planning, utility layout coordination, production optimization, process equipment integration, workflow planning, safety systems, and industrial execution support. Use futuristic engineering diagrams, animated process flows, blueprint-style visuals, and technical UI sections.
+
+Team & Consulting Page:
+Create professional profile layouts for the 15-member technical team with animated cards, expertise sections, consulting support details, and collaboration with Elroiz Neway Solutions. Include engineering support workflow visuals and technical coordination highlights.
+
+Contact Page:
+Design a modern contact page with interactive forms, embedded map, factory location details, contact information, animated icons, social media links, inquiry forms, and smooth confirmation animations. Add factory address, GST details, phone number, and email in elegant layouts.
+
+UI/UX Requirements:
+Use premium sans-serif typography, structured grids, soft shadows, floating cards, animated gradients, hover interactions, scroll-triggered animations, page transitions, glassmorphism effects, responsive mobile-first layouts, modern spacing, elegant white sections, and professional engineering aesthetics. Add smooth image sliders, animated counters, loading animations, dynamic content reveals, and futuristic industrial-themed visuals throughout the entire website design.
+
+add chatbot
+
+Add an advanced AI-powered chatbot system integrated throughout the SDK Automations website with a futuristic floating chat interface positioned at the bottom-right corner of every page. The chatbot should have smooth open/close animations, glassmorphism UI design, glowing borders, floating effects, typing animations, animated response bubbles, and modern industrial-themed styling matching the white, navy blue, and metallic grey website theme. The chatbot should feel intelligent, premium, responsive, and highly interactive with real-time conversational behavior.
+
+The chatbot must support:
+
+Instant customer support
+Service inquiry handling
+Project consultation assistance
+Engineering solution recommendations
+Automation setup guidance
+Factory setup consultation
+Industrial process assistance
+Lead generation and contact collection
+FAQ handling
+Quote request support
+Technical consultation booking
+
+Design chatbot conversation flows for:
+
+“Tell me about your services”
+“What industries do you serve?”
+“I need an automation setup”
+“Do you provide NDT booth installation?”
+“Can I request a quotation?”
+“Where is your factory located?”
+“How can I contact SDK Automations?”
+
+Add smart UI features including:
+
+Typing indicator animation
+Voice message support UI
+Quick reply buttons
+Animated chatbot avatar
+Expandable fullscreen chatbot mode
+Auto-suggestion prompts
+Smart greeting animation
+File upload support for project discussions
+Smooth transition effects
+Notification pulse animation
+Dark/light adaptive chatbot mode
+Mobile responsive chatbot interface
+
+The chatbot section should include:
+
+Welcome message with company branding
+AI assistant introduction
+Suggested service prompts
+Contact form integration
+Real-time inquiry capture
+Appointment scheduling UI
+Engineering consultation request form
+Customer feedback collection
+
+Add futuristic chatbot design elements such as:
+
+Glassmorphism chat container
+Soft glowing animations
+Floating gradient effects
+Animated send button
+Smooth hover interactions
+Modern message bubbles
+AI-generated response animation
+Minimalistic industrial UI theme
+
+Ensure the chatbot integrates seamlessly across all website pages including Home, About, Services, Industries, Projects, Engineering Capabilities, Team, and Contact pages with consistent transitions and premium enterprise-level UI/UX design.
