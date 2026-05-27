@@ -121,10 +121,10 @@ export function HomePage() {
               className="w-full h-auto bg-black"
               poster="https://cdn.builder.io/api/v1/image/assets%2F8c409737d47b4c5ebd702c7c2a206fa9%2Ffbc0f89b916b446bad4b6d2e9e1aa85c?format=webp&width=800&height=1200"
             >
-              <source
-                src="https://cdn.builder.io/o/assets%2F6081257f56164f79a999356618a191cf%2F26609043e39e478fa59fc3f207db1e98?alt=media&token=940c22d5-b6e3-4207-a524-a4d0c0c759eb&apiKey=6081257f56164f79a999356618a191cf"
-                type="video/mp4"
-              />
+             <source
+  src="/IMG_3892.MOV"
+  type="video/mp4"
+/>
               Your browser does not support the video tag.
             </video>
           </div>
